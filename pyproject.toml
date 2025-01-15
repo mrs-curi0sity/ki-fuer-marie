@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "ki-fuer-marie"
+version = "0.1.0"
+description = "YouTube Serie über KI Konzepte, erklärt für Nicht-Techniker"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter = "^1.0.0"
+numpy = "^1.24.0"
+pandas = "^2.0.0"
+matplotlib = "^3.7.0"
+torch = "^2.1.0"
+ipykernel = "^6.0.0"
+notebook = "^7.0.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.0.0"
+pylint = "^2.17.0"
+pytest = "^7.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
