@@ -1,16 +1,20 @@
-# KI für Marie - Episoden Roadmap
+# KI für Marie -  Inhaltsverzeichnis
 
 ## 1 Grundlagen Neuronale Netze
-#### 010 - Was ist ein Neuronales Netz?
-- Neuronen
+#### 010 - Wie funktioniert ein Neuron?
+- Neuron
+- Gewichte
+- Bias
 - Aktivierungsfunktionen
-- Bedeutung des Bias
+- Mehrere Inputs
+
+### 011 Layer
 - Frust über das XOR-Problem
 - Layer FTW
 - Wie "lernt" ein neuronales Netz eigentlich?
 
-#### 011 - Convolution
-- Wie Computer Bilder "sehen"
+#### 011 - Neuronale Netze auf Bildern
+- Convolution: Wie Computer Bilder "sehen"
 - Kantendetektoren
 - Pooling
 
@@ -26,15 +30,15 @@
 
 #### 021 - Large Language Models (LLMs)
 - Attention is all you need
-
-#### 022 - Das Verhalten von LLMs
 - Training und seine Auswirkungen
 - Die Metrik-Hölle
+
+## 3 - Das Verhalten von GenAI
 - Hand aufs Herz: wie viel Code lasse ich von LLMs generieren?
-- Stärken und Schwächen (aka Warum scheitern KIs an Hässlichkeit?)
+- Stärken und Schwächen (aka Warum scheitert GenAI an Hässlichkeit?)
 - Beispiele für unerwartetes Verhalten (#FunFactsAboutGenAI)
 
-## 3 Daten, Daten, DATEN!!
+## 4 Daten, Daten, DATEN!!
 - unvollständige Daten
 - schmutzige Daten
 - unbalancierte Daten
@@ -44,18 +48,18 @@
 - sensible Daten
 
 
-## 4 Wissensmanagement
-#### 040 - RAG (Retrieval Augmented Generation)
+## 5 Wissensmanagement
+#### 050 - RAG (Retrieval Augmented Generation)
 - Die Idee hinter RAGs
 - Reranking
 - MMR
 - Agentic RAG
 
-#### 041 - Knowledge Graphs
+#### 051 - Knowledge Graphs
 - Wissen als Netzwerk verstehen
 
-## 5 Biologisch inspirierte KI
-#### 050 - Schwarmintelligenz
+## 6 Biologisch inspirierte KI
+#### 060 - Schwarmintelligenz
 - Der Müslieffekt
 - Selbst-regulierende Systeme
 - Ameisen und Emergenz 
@@ -63,22 +67,24 @@
 - Game of Life 
 - Braitenberg Vehicle :D
 
-#### 052 - Reinforcement Learning
+#### 061 - Reinforcement Learning
 
-#### 053 - Genetische Algorithmen
+#### 062 - Genetische Algorithmen
 - Evolution im Computer
 
 
 
 
-## 6 Ausblick
+## 7 Ausblick
 #### 060 - KI & Gesellschaft
 - Hilfe! Die KI wird uns alle Jobs wegnehmen!
 - ... oder etwa nicht?
 - Meine Prognose für 2026
 
 ## Mögliche weitere Themen
+- Loss Funktionen
 - Transformer-Architektur im Detail
+- Vanishing Gradient
 - Generell: Architekturen
 - GANs
 - KI im kreativen Prozess
