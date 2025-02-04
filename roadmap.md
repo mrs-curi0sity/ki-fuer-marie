@@ -1,24 +1,28 @@
 # KI für Marie -  Inhaltsverzeichnis
 
 ## 1 Grundlagen Neuronale Netze
-#### 010 - Wie funktioniert ein Neuron?
+#### 1.1 - Wie funktioniert ein Neuron?
 - Neuron
 - Gewichte
 - Bias
 - Aktivierungsfunktionen
 - Mehrere Inputs
 
-### 011 Layer
+#### 1.2 - wie lernt ein Neuron?
+- Backpropagation
+- Hyperparameter
+  
+### 1.3 Layer
+- Von Regresssion zu Klassifikation
 - Frust über das XOR-Problem
 - Layer FTW
-- Wie "lernt" ein neuronales Netz eigentlich?
 
-#### 011 - Neuronale Netze auf Bildern
+#### 1.4 - Neuronale Netze auf Bildern
 - Convolution: Wie Computer Bilder "sehen"
 - Kantendetektoren
 - Pooling
 
-#### 012 - RNNs
+#### 1.5 - RNNs
 - Neuronale Netze mit "Gedächtnis"
 
 ## 2 LLMs
