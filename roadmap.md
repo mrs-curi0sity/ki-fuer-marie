@@ -1,48 +1,59 @@
 # KI für Marie -  Inhaltsverzeichnis
 
 ## 1 Grundlagen Neuronale Netze
-#### 1.1 - Wie funktioniert ein Neuron?
+### 1.1 - Wie und was lernt KI grundsätzlich?
+- Memes
+- Lernen anhand von Beispielen
+- Arten des Lernens: Regression, Klassifikation und Clustering
+### 1.2 - Das Neuron
 - Neuron
 - Gewichte
 - Bias
 - Aktivierungsfunktionen
-- Mehrere Inputs
+- Mehrere Inputdimensionen
 
-#### 1.2 - wie lernt ein Neuron?
-- Backpropagation
-- Hyperparameter
-  
-### 1.3 Layer
-- Von Regresssion zu Klassifikation
+### 1.3 - Das Netz
+- Von Regresssion zur Klassifikation
 - Frust über das XOR-Problem
 - Layer FTW
 
-#### 1.4 - Neuronale Netze auf Bildern
+### 1.4 - Wie lernen KI im Detail?
+- Backpropagation
+- Batch, Epoche, Fehlerfunktion
+- Hyperparameter
+- Dropout Layer
+
+### 1.5 - Die Rolle von Trainingsdaten
+- Fehlende Trainingsdaten
+- Bias in den Trainingsdaten
+- Falsche Kausalitäten
+- Können KIs kreativ sein?
+
+## 2 Fortgeschrittene Konzepte von Neuronalen Netzen
+
+### 2.1 - Neuronale Netze auf Bildern
 - Convolution: Wie Computer Bilder "sehen"
 - Kantendetektoren
 - Pooling
 
-#### 1.5 - RNNs
-- Neuronale Netze mit "Gedächtnis"
-
-## 2 LLMs
-#### 020 - wie kann ein Neuronales Netz Sprache verarbeiten?
+### 2.2 - Neuronale Netze auf Sequenzen
+- RNNs - Neuronale Netze mit "Gedächtnis"
+### 2.3 - Neuronale Netze auf Sprache
 - Tokenization
-- Embeddings
-- Anschauliche Beispiele
+- Embeddings: die Intuition dahinter
 - Wie lernt man Embeddings?
-
-#### 021 - Large Language Models (LLMs)
 - Attention is all you need
-- Training und seine Auswirkungen
+- Prompts
+- Training von LLMs
 - Die Metrik-Hölle
 
-## 3 - Das Verhalten von GenAI
+### 2.4 Besonderheiten von GenAI
 - Hand aufs Herz: wie viel Code lasse ich von LLMs generieren?
-- Stärken und Schwächen (aka Warum scheitert GenAI an Hässlichkeit?)
+- Stärken und Schwächen von GenAI (Warum kann Claude keine Frösche malen und keine "r"s zählen?)
+- Manipulierbarkeit von GenAI (Käsekuchen-Gaslighting)
 - Beispiele für unerwartetes Verhalten (#FunFactsAboutGenAI)
 
-## 4 Daten, Daten, DATEN!!
+## 3 Daten, Daten, DATEN!!
 - unvollständige Daten
 - schmutzige Daten
 - unbalancierte Daten
@@ -52,18 +63,18 @@
 - sensible Daten
 
 
-## 5 Wissensmanagement
-#### 050 - RAG (Retrieval Augmented Generation)
+## 4 Wissensmanagement
+### 4.1 - RAG (Retrieval Augmented Generation)
 - Die Idee hinter RAGs
 - Reranking
 - MMR
 - Agentic RAG
 
-#### 051 - Knowledge Graphs
+### 4.2 - Knowledge Graphs
 - Wissen als Netzwerk verstehen
 
-## 6 Biologisch inspirierte KI
-#### 060 - Schwarmintelligenz
+## 5 Biologisch inspirierte KI
+#### 5.1 - Schwarmintelligenz
 - Der Müslieffekt
 - Selbst-regulierende Systeme
 - Ameisen und Emergenz 
@@ -71,16 +82,16 @@
 - Game of Life 
 - Braitenberg Vehicle :D
 
-#### 061 - Reinforcement Learning
+#### 5.2 - Reinforcement Learning
 
-#### 062 - Genetische Algorithmen
+#### 5.3 - Genetische Algorithmen
 - Evolution im Computer
 
 
 
 
-## 7 Ausblick
-#### 060 - KI & Gesellschaft
+## 6 Ausblick
+#### 6.1 - KI & Gesellschaft
 - Hilfe! Die KI wird uns alle Jobs wegnehmen!
 - ... oder etwa nicht?
 - Meine Prognose für 2026
