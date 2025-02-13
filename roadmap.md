@@ -61,6 +61,7 @@
 - zu viele Daten (Dimensionen)
 - die falschen Daten
 - sensible Daten
+- Data Augmentation
 
 
 ## 4 Wissensmanagement
