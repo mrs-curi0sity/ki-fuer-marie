@@ -60,6 +60,7 @@
 - Data Augmentation
 - Transfer Learning
 - Lokale Modelle und die allgegenwärtigen APIs
+- was ist eigentlich MLOps?
 - Hand aufs Herz: wie viel Code lasse ich von LLMs generieren?
 
 ### 2.5 Besonderheiten von GenAI (und weitere Gesellschaftlich-/Philosophische Fragen)
