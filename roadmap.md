@@ -15,17 +15,18 @@
 - Mehrere Inputdimensionen
 
 ### 1.3 - Das Netz
+- mehrere innere Neuronen
 - Von Regresssion zur Klassifikation
 - Frust über das XOR-Problem
 - Layer FTW
 
-### 1.4 - Wie lernen KI im Detail?
+### 1.4 - Wie lernen KI im Detail? (Einblicke Aus dem Alltag eines ML Engineers)
 - Backpropagation
 - Batch, Epoche, Fehlerfunktion
 - Hyperparameter
 - Dropout Layer
 
-### 1.5 - Die Rolle von Trainingsdaten
+### 1.5 - Die Rolle von Trainingsdaten (und erste Gesellschaftlich-/Philosophische Fragen)
 - Fehlende Trainingsdaten
 - Bias in den Trainingsdaten
 - Falsche Kausalitäten
@@ -35,8 +36,11 @@
 
 ### 2.1 - Neuronale Netze auf Bildern
 - Convolution: Wie Computer Bilder "sehen"
-- Kantendetektoren
 - Pooling
+- Strides und Padding
+- ResNet
+- UNET
+- YOLO
 
 ### 2.2 - Neuronale Netze auf Sequenzen
 - RNNs - Neuronale Netze mit "Gedächtnis"
@@ -51,8 +55,14 @@
 - Training von LLMs
 - Die Metrik-Hölle bei GenAI-Projekten
 
-### 2.4 Besonderheiten von GenAI
+### 2.4 - Das Training von fortgeschrittenen KNNsn(Einblicke Aus dem Alltag eines ML Engineers)
+- Batch normalization
+- Data Augmentation
+- Transfer Learning
+- Lokale Modelle und die allgegenwärtigen APIs
 - Hand aufs Herz: wie viel Code lasse ich von LLMs generieren?
+
+### 2.5 Besonderheiten von GenAI (und weitere Gesellschaftlich-/Philosophische Fragen)
 - Stärken und Schwächen von GenAI (Warum kann Claude keine Frösche malen und keine "r"s zählen?)
 - Manipulierbarkeit von GenAI (Käsekuchen-Gaslighting)
 - Beispiele für unerwartetes Verhalten (#FunFactsAboutGenAI)
@@ -61,11 +71,11 @@
 - unvollständige Daten
 - schmutzige Daten
 - unbalancierte Daten
-- zu wenige Daten
-- zu viele Daten (Dimensionen)
+- zu wenige Daten (=> Data Augmentation)
+- zu viele Daten (=> Dimensionsreduktion)
 - die falschen Daten
 - sensible Daten
-- Data Augmentation
+
 
 
 ## 4 Wissensmanagement
