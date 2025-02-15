@@ -4,7 +4,9 @@
 ### 1.1 - Wie und was lernt KI grundsätzlich?
 - Memes
 - Lernen anhand von Beispielen
-- Arten des Lernens: Regression, Klassifikation und Clustering
+- Arten des Lernens: Unüberwachtes Lernen (Clustering)
+- Arten des Lernens: Überwachtes Lernen (Regression, Klassifikation)
+
 ### 1.2 - Das Neuron
 - Neuron
 - Gewichte
@@ -38,6 +40,8 @@
 
 ### 2.2 - Neuronale Netze auf Sequenzen
 - RNNs - Neuronale Netze mit "Gedächtnis"
+- LSTM
+- GRU
 ### 2.3 - Neuronale Netze auf Sprache
 - Tokenization
 - Embeddings: die Intuition dahinter
@@ -45,7 +49,7 @@
 - Attention is all you need
 - Prompts
 - Training von LLMs
-- Die Metrik-Hölle
+- Die Metrik-Hölle bei GenAI-Projekten
 
 ### 2.4 Besonderheiten von GenAI
 - Hand aufs Herz: wie viel Code lasse ich von LLMs generieren?
