@@ -38,27 +38,32 @@
 - Convolution: Wie Computer Bilder "sehen"
 - Pooling
 - Strides und Padding
-- ResNet
 - UNET
-- YOLO
+- (nicht hier: ResNet, YOLO usw usw)
 
 ### 2.2 - Neuronale Netze auf Sequenzen
 - RNNs - Neuronale Netze mit "Gedächtnis"
 - LSTM
 - GRU
-### 2.3 - Neuronale Netze auf Sprache
-- Tokenization
+### 2.3 - Neuronale Netze auf Sprache: Embeddings
 - Embeddings: die Intuition dahinter
+- Cosine oder Euklid?
+- Häufigkeit führt zu Länge
+- Curse of Dimensionality
 - Wie lernt man Embeddings?
+
+### 2.4 - Neuronale Netze auf Sprache: Attention
 - Attention is all you need
-- Prompts
-- Training von LLMs
-- Die Metrik-Hölle bei GenAI-Projekten
+
 
 ### 2.4 - Das Training von fortgeschrittenen KNNsn(Einblicke Aus dem Alltag eines ML Engineers)
+- Tokenization
 - Batch normalization
 - Data Augmentation
 - Transfer Learning
+- Training von LLMs
+- Prompts
+- Die Metrik-Hölle bei GenAI-Projekten
 - Lokale Modelle und die allgegenwärtigen APIs
 - was ist eigentlich MLOps?
 - Hand aufs Herz: wie viel Code lasse ich von LLMs generieren?
