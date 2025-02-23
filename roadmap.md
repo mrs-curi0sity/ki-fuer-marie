@@ -7,12 +7,18 @@
 - Arten des Lernens: Unüberwachtes Lernen (Clustering)
 - Arten des Lernens: Überwachtes Lernen (Regression, Klassifikation)
 
+
+<div style="background-color: #f0f0f0; padding: 15px; border: 1px solid #ddd; border-radius: 5px;">
+
+
 ### 1.2 - Das Neuron
 - Neuron
 - Gewichte
 - Bias
 - Aktivierungsfunktionen
 - Mehrere Inputdimensionen
+  
+  </div>
 
 ### 1.3 - Das Netz
 - mehrere innere Neuronen
