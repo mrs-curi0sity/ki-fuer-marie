@@ -8,8 +8,6 @@
 - Arten des Lernens: Überwachtes Lernen (Regression, Klassifikation)
 
 
-<div style="background-color: #f0f0f0; padding: 15px; border: 1px solid #ddd; border-radius: 5px;">
-
 
 ### 1.2 - Das Neuron
 - Neuron
@@ -18,13 +16,16 @@
 - Aktivierungsfunktionen
 - Mehrere Inputdimensionen
   
-  </div>
+
+<div style="background-color: #f0f0f0; padding: 15px; border: 1px solid #ddd; border-radius: 5px;">
 
 ### 1.3 - Das Netz
 - mehrere innere Neuronen
+- mehrere Input- und mehrere innere Neuronen
 - Von Regresssion zur Klassifikation
-- Frust über das XOR-Problem
+- Das XOR-Problem und der AI Winter
 - Layer FTW
+ </div>
 
 ### 1.4 - Wie lernen KI im Detail? (Einblicke Aus dem Alltag eines ML Engineers)
 - Backpropagation
