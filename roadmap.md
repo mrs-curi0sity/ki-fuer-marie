@@ -17,27 +17,30 @@
 - Mehrere Inputdimensionen
   
 
-<div style="background-color: #f0f0f0; padding: 15px; border: 1px solid #ddd; border-radius: 5px;">
-
 ### 1.3 - Das Netz
 - mehrere innere Neuronen
 - mehrere Input- und mehrere innere Neuronen
 - Von Regresssion zur Klassifikation
 - Das XOR-Problem und der AI Winter
 - Layer FTW
- </div>
 
-### 1.4 - Wie lernen KI im Detail? (Einblicke Aus dem Alltag eines ML Engineers)
+
+
+
+### 1.4 - Wie trainiert man eine KI im Detail? 
 - Backpropagation
 - Batch, Epoche, Fehlerfunktion
 - Hyperparameter
 - Dropout Layer
+
+<div style="background-color: #f0f0f0; padding: 15px; border: 1px solid #ddd; border-radius: 5px;">
 
 ### 1.5 - Die Rolle von Trainingsdaten (und erste Gesellschaftlich-/Philosophische Fragen)
 - Fehlende Trainingsdaten
 - Bias in den Trainingsdaten
 - Falsche Kausalitäten
 - Können KIs kreativ sein?
+</div>
 
 ## 2 Fortgeschrittene Konzepte von Neuronalen Netzen
 
@@ -63,7 +66,7 @@
 - Attention is all you need
 
 
-### 2.4 - Das Training von fortgeschrittenen KNNsn(Einblicke Aus dem Alltag eines ML Engineers)
+### 2.4 - Das Training von fortgeschrittenen KNNs (Einblicke Aus dem Alltag eines ML Engineers)
 - Tokenization
 - Batch normalization
 - Data Augmentation

@@ -8,6 +8,8 @@
 
 # Homöopathika sollten nicht durch Apotheken verkauft und durch Krankenkassen gedeckt werden
 
+# Kirchen sollte als größte Immobilienbesitzer der Welt nicht von der Grundsteuer augenommenw erden
+
 # "ein foto vom perso reicht nicht. nur ein Scan"
 
 # Rentenversicherungsansprüche zu bestimmen dauert > 1 Jahr
